@@ -1,0 +1,5 @@
+my cp is windows 10
+1. download the file from  https://golang.org/dl/ , i chose the  go 1.6.2  and download it
+2.move the .msi to c:\ ,use the su privileges amnd run the commond then type msiexec /i go1.6.2……msi.msi
+3.click the next until the  finish button is show
+4. set environment variables in your conputer
